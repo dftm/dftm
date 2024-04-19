@@ -1,4 +1,4 @@
-## Hi there, This is Dimitri! 👋
+## Hi there, This is Demetrius! 👋
 
 
 
@@ -17,8 +17,8 @@
 
 - 🔭 Straight outta Compton and [QA & Software Testing Bootcamp](https://www.workearly.gr/qa-automation-software-testing-school).
 - 🌱 I’m currently learning Python & TypeScript.
-- 📫 How to reach me ▶ ▶ ▶ https://about.me/dftm
-- ⚡ More ▶ ▶ ▶   https://tiny.cc/dftm-write (Learning Content) || https://tiny.cc/dftm-acdm (Academy I created)
-                    https://tiny.cc/dftm-vid (Learning Videos)    || https://about.me/dftm (Links Page)
+- 📫 How to reach me ▶ ▶ ▶  https://about.me/dftm
+- ⚡ More ▶ ▶ ▶             https://tiny.cc/dftm-write (Learning Content) || https://tiny.cc/dftm-acdm (Academy I created)
+                              https://tiny.cc/dftm-vid (Learning Videos)    || https://about.me/dftm (Links Page)
 
 
