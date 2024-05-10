@@ -1,4 +1,4 @@
-## Hi there, This is Demetrius! 👋
+## Hi there, This is Demetri! 👋
 
 
 
