@@ -18,7 +18,6 @@
 - 🔭 Straight outta [QA & Software Testing Bootcamp](https://www.workearly.gr/qa-automation-software-testing-school).
 - 🌱 I’m currently learning Python & TypeScript.
 - 📫 How to reach me ▶ ▶ ▶  https://about.me/dftm
-- ⚡ More ▶ ▶ ▶             https://tiny.cc/dftm-write (Learning Content) || https://tiny.cc/dftm-acdm (Academy I created)
-                              https://tiny.cc/dftm-vid (Learning Videos)    || https://about.me/dftm (Links Page)
+- ⚡ More ▶ ▶ ▶             https://tiny.cc/dftm-write (Learning Content)
 
 
