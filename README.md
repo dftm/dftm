@@ -2,7 +2,7 @@
 
 
 ### Currently Working On
-* Web 3 || DeFi || AI+ML EdTech
+* Web 3 | DeFi | LLM Wikis | AI+ML | Web Apps
 
 
 ### Technologies
